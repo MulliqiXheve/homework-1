@@ -87,47 +87,72 @@ Please edit this file to add your answers to the following questions.
 #### 5. In the following URL: `https://www.nsnsp.org/commitments?date=2017-12-09`
 
 * What is the scheme/protocol?
+  Answer: https
 * What is the host?
+  Answer: www.nsnsp.org
 * What is the port number?
+  Answer: 443
 * What is the path?
+  Answer: /commitments
 * What are the query parameters?
+  Answer: date=2017-12-09
 * What is the fragment?
+  Answer: none
 
 #### 6. In the following URL: `http://localhost:4000/admin?`
 
 * What is the scheme/protocol?
+  Answer: http 
 * What is the host?
+  Answer: localhost
 * What is the port number?
+  Answer: 4000
 * What is the path?
+  Answer: admin
 * What are the query parameters?
+  Answer: none
 * What is the fragment?
+  Answer: none
 
 #### 7. In the following URL: `http://www.lehman.edu/academics/mathematics-computer-science/index.php`
 
 * What is the scheme/protocol?
+  Answer: http
 * What is the host?
+  Answer:www.lehman.edu
 * What is the port number?
+  Answer:80
 * What is the path?
+  Answer:/academics/mathematics-computer-science/
 * What are the query parameters?
+  Answer:none
 * What is the fragment?
+  Answer:none
 
 #### 8. In the following URL: `https://en.wikipedia.org/wiki/Greek_alphabet#Glyph_variants`
 
 * What is the scheme/protocol?
+Answer:https
 * What is the host?
+Answer:en.wikipedia.org
 * What is the port number?
+Answer:443
 * What is the path?
+Answer:/wiki/Greek_alphabet
 * What are the query parameters?
+Answer:none
 * What is the fragment?
+Answer:Glyph_variants
 
 
 ### 9. HTTPS
 
 What does the S stand for in HTTPS?
-
+Answer: Security
 Why is HTTPS better than HTTP?
-
+Answer:Https is beter than http because for security purpose. 
 Should all web pages use HTTPS?
+Answer:Yes nowdays HTTPS should always be used, regardless of content.
 
 
 ## Webpages
@@ -139,11 +164,9 @@ Pleaes ensure you have read chapters 1–9 (except 7) in the [HTML & CSS book](h
 
 
 ### 10. What is a webpage?
+An HTML document containing information and other media
 
-*Your answer here.*
-
-
-### 11. Webpage I like
+#### 11. Webpage I like
 
 What's one webpage you like? Why?
 
@@ -157,22 +180,28 @@ What's one webpage you like? Why?
 
 Where is a good place to look for information about HTML tags?
 
+www.w3schools.com
+
 
 ### 14. HTML Versions
 
 Which version of HTML are we covering in this class? What is it's DOCTYPE tag?
+HTML5 and its doctype is <!DOCTYPE html>
 
 What is XML?
+XML stands for eXtensible Markup Language.XML is a markup language that was designed to store and transport data
 
 What is XHTML?
+XHTML stands for EXtensible HyperText Markup Language.XHTML is a combination of HTML and XML
 
 
 ### 15. HTML
 
 Are web pages ASCII (plain text) files, or compiled (binary) files like an executable program?
+Plain text
 
 Are HTML files interpreted or executed?
-
+interpreted
 
 ### 16. Browser versioning
 
@@ -182,15 +211,19 @@ Which versions of Microsoft Internet Explorer support the `<nav>` tag?
 ### 17. HTML Validity
 
 What is one tool that can tell you if you have written valid HTML?
-
+https://validator.w3.org/
 
 ### 18. Accessibility
 
 What does "Accessibility" mean in the context of web development?
+The accessibility of a website to all people, regardless of disability type or
+severity of impairment.
 
 What types of people does accessibility concern?
+People with physical impairment
 
 What is one tool you can use to verify the accessibility of your websites?
+https://www.w3.org/WAI/ER/tools/
 
 
 ### 19. head / body
