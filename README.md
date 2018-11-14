@@ -229,29 +229,43 @@ https://www.w3.org/WAI/ER/tools/
 ### 19. head / body
 
 What is the `<head>` tag for?
+The <head> element is a container for all the head elements which do not appear in the web page.The <head> element can include a title for the document, scripts, styles, meta information, etc.
 
 What is the `<body>` tag for?
+The <body> tag defines the document's body.It contains all the contents of an HTML document, such as text, hyperlinks, images, tables, lists, etc
 
 
 ### 20. Head…
 
 What's the difference between `<head>`, `<header>`, and heading tags?
+The <head> element is a container for all the head elements which do not appear in the web page. The header is for containing things that usually appear first on the top of the page, like the tittle, and the heading tags are for setting the different types of headings or tittles.
 
 
 ### 21. Tables
 
 What are all the tags associated with [HTML tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables) (e.g. `<table>`, `<tr>`, etc.)?
+ <table>,element to define a table.
+<thead>,tag is used to group header content in an HTML table.
+<tbody>,tag is used to group the body content in an HTML table
+<tfoot>,tag is used to group footer content in an HTML table.
+<tr>, element to define a table row.
+<th>,element to define a table heading.
+<td>,element to define a table data.
+<caption>,element to define a table caption.
+<col>, defines the properties of one or more columns in the HTML table defined by the <table> tag
+<colgroup>, specifies a group with common properties.
+
 
 
 ### 22. Non-closing tags
 
-Which tags don't have a closing pair (e.g. `<br>`)?
-
+Which tags don't have a closing pair (e.g.<br> `)?
+`<br> ,<img>, <hr>, <meta>
 
 ### 23. Links
 
 How do you make a link open in a new window?
-
+We add the attribute target="_blank"
 
 ### 24. IFRAME
 
