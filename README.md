@@ -176,6 +176,7 @@ What's one webpage you like? Why?
 What's one webpage you like? Why?
 
 
+
 ### 13. Resources
 
 Where is a good place to look for information about HTML tags?
@@ -270,8 +271,9 @@ We add the attribute target="_blank"
 ### 24. IFRAME
 
 What is an IFRAME?
-
+An IFRAME is an HTML document inside another HTML document on a website. 
 What are IFRAMEs commonly used for?
+The IFrame HTML element is often used to insert content from another source.
 
 
 ## Writing Code
