@@ -305,10 +305,13 @@ Please modify the [bugs.html](bugs.html) file in this repository to fix the erro
 ### 28. Pace check
 
 Class is going… too slow / just right / too fast.
+JUST RIGHT
 
 
 ### 29. Jobs
 
-Add a link to one web development job based in NYC:
+Add a link to one web development job based in NYC: https://www.linkedin.com/jobs/view/911860642/
 
-What do you still need to learn to meet the requirements?
+What do you still need to learn to meet the requirements? Strong understanding of client-side code
+
+- Ability to contribute to both standalone software, as well as, standalone javascript functions
