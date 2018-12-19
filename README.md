@@ -168,12 +168,11 @@ An HTML document containing information and other media
 
 #### 11. Webpage I like
 
-What's one webpage you like? Why?
-
+What's one webpage you like? Why? Linkedin, because it's a useful tool to helps you identify job opportunities and connecting with recruiters.
 
 ### 12. Website I don’t like
 
-What's one webpage you like? Why?
+What's one webpage you't like? Why? Facebok, because there is tons of ads
 
 
 
@@ -206,7 +205,7 @@ interpreted
 
 ### 16. Browser versioning
 
-Which versions of Microsoft Internet Explorer support the `<nav>` tag?
+Which versions of Microsoft Internet Explorer support the `<nav>` tag? Internet Explorer 9
 
 
 ### 17. HTML Validity
